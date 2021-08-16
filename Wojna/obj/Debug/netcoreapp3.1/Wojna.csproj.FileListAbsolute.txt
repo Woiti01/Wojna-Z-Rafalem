@@ -1,0 +1,13 @@
+E:\Programowanie\Wojna\Wojna\Wojna\bin\Debug\netcoreapp3.1\Wojna.exe
+E:\Programowanie\Wojna\Wojna\Wojna\bin\Debug\netcoreapp3.1\Wojna.deps.json
+E:\Programowanie\Wojna\Wojna\Wojna\bin\Debug\netcoreapp3.1\Wojna.runtimeconfig.json
+E:\Programowanie\Wojna\Wojna\Wojna\bin\Debug\netcoreapp3.1\Wojna.runtimeconfig.dev.json
+E:\Programowanie\Wojna\Wojna\Wojna\bin\Debug\netcoreapp3.1\Wojna.dll
+E:\Programowanie\Wojna\Wojna\Wojna\bin\Debug\netcoreapp3.1\Wojna.pdb
+E:\Programowanie\Wojna\Wojna\Wojna\obj\Debug\netcoreapp3.1\Wojna.csprojAssemblyReference.cache
+E:\Programowanie\Wojna\Wojna\Wojna\obj\Debug\netcoreapp3.1\Wojna.AssemblyInfoInputs.cache
+E:\Programowanie\Wojna\Wojna\Wojna\obj\Debug\netcoreapp3.1\Wojna.AssemblyInfo.cs
+E:\Programowanie\Wojna\Wojna\Wojna\obj\Debug\netcoreapp3.1\Wojna.csproj.CoreCompileInputs.cache
+E:\Programowanie\Wojna\Wojna\Wojna\obj\Debug\netcoreapp3.1\Wojna.dll
+E:\Programowanie\Wojna\Wojna\Wojna\obj\Debug\netcoreapp3.1\Wojna.pdb
+E:\Programowanie\Wojna\Wojna\Wojna\obj\Debug\netcoreapp3.1\Wojna.genruntimeconfig.cache
